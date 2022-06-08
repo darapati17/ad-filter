@@ -1,5 +1,5 @@
 ! Checksum: RBBJPYdbEsNSR92IuqXYrw
-! Title: NoCoin Filter List
+! Title: Ikey Filter List
 ! Description: This filter disables browser-based miners such as coin-hive.
 ! Version: 1.0.2.28
 ! TimeUpdated: 2022-05-31T13:02:09+00:00
