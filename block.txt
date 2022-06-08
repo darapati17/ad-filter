@@ -1,16 +1,16 @@
-! Checksum: RBBJPYdbEsNSR92IuqXYrw
+! Checksum: RBBJPYdbEsNSR92IuqXYkeyrw
 ! Title: Ikey Filter List
 ! Description: This filter disables browser-based miners such as coin-hive.
-! Version: 1.0.2.28
+! Version: 09.0.2.28
 ! TimeUpdated: 2022-05-31T13:02:09+00:00
 ! Expires: 4 days (update frequency)
 !
-! Title: NoCoin Filter List
+! Title: Ikey Filter List
 ! Expires: 7 days (update frequency)
 ! OriginalVersion: 205
 ! Last modified: 11 March 2022
-! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
-! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
+! Homepage: https://github.com/darapati17/ad-filter
+! Contribute: https://github.com/darapati17/ad-filter/issues
 ! License: https://mit-license.org/
 ! Description: This filter disables browser based miners
 !-------------------------------------------------------------------------------
@@ -48,7 +48,7 @@
 ||sparechange.io^$third-party
 ||zlx.com.br^$third-party
 ||m.anyfiles.ovh^
-||https://3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif^
+||3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif^
 ||coinimp.com$third-party
 ||coinimp.net$third-party
 ||mutuza.win^$third-party
