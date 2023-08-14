@@ -3716,7 +3716,7 @@ oricon.co.jp##.break-ad-box
 oricon.co.jp##article > div[style="margin-bottom: 20px; min-height:100px;"]
 crb-kolomna.ru,uk-parkovaya.ru,viarum.ru##.flat__4_out
 m.life.tw###fbFixedAd
-woman.at##.ad_con
+woman.aat##.ad_con
 gamesnacks.com##c-wiz.SSPGKf:nth-child(3) > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div.W9Zhmc:first-child
 gamesnacks.com##c-wiz.SSPGKf:nth-child(3) > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div:last-child > div.feIaof
 gamesnacks.com##c-wiz.SSPGKf:nth-child(3) > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div.sSVlic:nth-child(17)
