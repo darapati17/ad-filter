@@ -3717,12 +3717,23 @@ oricon.co.jp##article > div[style="margin-bottom: 20px; min-height:100px;"]
 crb-kolomna.ru,uk-parkovaya.ru,viarum.ru##.flat__4_out
 m.life.tw###fbFixedAd
 woman.aat##.ad_con
-gamesnacks.com##c-wiz.SSPGKf:nth-child(3) > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div.W9Zhmc:first-child
-gamesnacks.com##c-wiz.SSPGKf:nth-child(3) > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div:last-child > div.feIaof
-gamesnacks.com##c-wiz.SSPGKf:nth-child(3) > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div.sSVlic:nth-child(17)
-gamesnacks.com##c-wiz.SSPGKf:last-child > div.T4LgNb:first-child > div.kFwPee > div.H81QOc:last-child > div.AN8aQe > div:last-child > div.feIaof
-gamesnacks.com##c-wiz.SSPGKf:last-child > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div.W9Zhmc:first-child
-gamesnacks.com##c-wiz.SSPGKf:last-child > div.T4LgNb:first-child > div.kFwPee > div.t9FS7c:last-child > div.YbqyLb > div.sSVlic:nth-child(17)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > header.container.mx-auto.border-b.border-gray-200.px-2.py-4.lg\:text-center.lg\:flex.lg\:items-center.lg\:justify-between:first-child
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > footer.hidden.container.mx-auto.leading-normal.px-4.py-6.border-t.border-gray-200.text-center.md\:flex.justify-between.items-center.uppercase:nth-child(8)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.fixed.bottom-0.bg-white.dark\:bg-night-400.shadow.rounded.border.dark\:border-night-300.m-4.text-gray-600.dark\:text-gray-200.transition-transform.delay-100.translate-y-0.left-0:last-child > div.flex.justify-between.items-center.relative.p-4.pr-6
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.container.max-w-6xl.mx-auto.py-4.sm\:py-6.mb-4.text-center.px-4.sm\:px-0:nth-child(7)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.container.mx-auto.max-w-4xl.py-2.sm\:py-6:nth-child(6) > div.px-4.py-2:last-child
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.container.mx-auto.max-w-4xl.py-2.sm\:py-6:nth-child(6)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.container.max-w-5xl.mx-auto.my-2.sm\:my-5.py-6:nth-child(5)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.tracking-wide.leading-7.mx-auto.max-w-3xl.text-center.text-orange-400.mt-6.sm\:mt-0.px-6:nth-child(4)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.tracking-wide.leading-7.mx-auto.max-w-3xl.text-center.text-orange-400.mt-6.sm\:mt-0.px-6:nth-child(4)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > footer.hidden.container.mx-auto.leading-normal.px-4.py-6.border-t.border-gray-200.text-center.md\:flex.justify-between.items-center.uppercase:nth-child(5)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.w-full.max-w-4xl.my-2.mx-auto:nth-child(4) > section.px-4.sm\:px-0.container.mx-auto.mb-4.mt-10:nth-child(2) > button.w-full.flex.justify-between.border-b.border-grey-light.border.border-gray-200.dark\:border-night-500.px-4.py-2.uppercase.tracking-wide.text-gray-600.dark\:text-gray-200.cursor-pointer
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.w-full.max-w-4xl.my-2.mx-auto:nth-child(4) > div.my-8.md\:flex.justify-center.items-center.text-center.md\:text-left.px-4:first-child
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.bg-gray-100.container.mx-auto.max-w-5xl.dark\:bg-night-400.py-3.px-4.sm\:block.mt-2.mb-4:nth-child(3)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.w-full.max-w-4xl.my-2.mx-auto:nth-child(4) > main.flex.justify-center.items-center.inset-0.fixed.bg-gray-500.bg-opacity-40.z-50:last-child > div.bg-white.dark\:bg-night-400.px-6.py-10.sm\:px-10.shadow.relative.text-center.opacity-1.w-full.mx-4.sm\:mx-0.sm\:w-8\/12 > div.border-t-2.border-b-2.border-gray-200.dark\:border-night-500.my-2.px-2.py-3:first-child > div.pb-2.text-base.sm\:text-lg.tracking-wider.text-gray-600.dark\:text-white:last-child
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.w-full.max-w-4xl.my-2.mx-auto:nth-child(4) > section.py-3.lg\:py-6.px-4:last-child > div.mt-2.lg\:flex.lg\:justify-center.items-center:first-child > div.lg\:ml-4.lg\:w-3\/5.mt-6.lg\:mt-0:last-child > div.bg-gray-100.dark\:bg-night-400.w-full.px-6.py-3.mb-2.leading-loose.text-sm:first-child
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.border-orange-400.border-r-0.border-l-0.md\:border-l.md\:border-r.border.mx-auto.max-w-3xl.text-center.leading-normal.text-orange-400.mb-0.sm\:mb-8.mt-2.px-6.py-3:nth-child(3)
+9xbuddy.in###root > section.bg-white.dark\:bg-night-300 > section.border-orange-400.border-r-0.border-l-0.md\:border-l.md\:border-r.border.mx-auto.max-w-3xl.text-center.leading-normal.text-orange-400.mb-0.sm\:mb-8.mt-2.px-6.py-3:nth-child(3)
 wpde.com##.interstory_first_mobile
 wpde.com##.interstory_second_mobile
 ru-xiaomitoday-it.cdn.ampproject.org##div[class="cl-amp-important-information"][id^="lx_"]
